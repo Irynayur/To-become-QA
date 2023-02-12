@@ -4,6 +4,3 @@ def test_check_math():
 
 def test_check_78():
     assert 7 * 8 == 65
-
-def test_check_78():
-    assert 7 * 8 == 56
